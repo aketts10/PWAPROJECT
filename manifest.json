@@ -1,0 +1,67 @@
+{
+    "name": "Make My Trip",
+    "short_name": "MMT",
+    "start_url": "index.html",
+    "display": "standalone",
+    "description": "Travel app to help you plan your next flight, hotel stay or dream vacation",
+    "orientation": "portrait-primary",
+    "background_color": "#1a237e",
+    "theme_color": "#ffffff",
+    "scope": "index.html",
+    "dir": "ltr",
+    "lang": "en-US",
+    "prefer_related_applications": false,
+    "related_applications": [
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=127.0.0.1:5500/Pages/index.html#home",
+            "id": "index.html"
+        }, {
+            "platform": "itunes",
+            "url": "https://itunes.apple.com/app/127.0.0.1:5500/Pages/index.html#home"
+        }
+    ],
+
+    "icons": [
+        {
+            "src": "/img/icons/app-icon-72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/img/icons/app-icon-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/img/icons/app-icon-128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/img/icons/app-icon-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/img/icons/app-icon-152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/img/icons/app-icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icons/app-icon-384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/img/icons/app-icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
